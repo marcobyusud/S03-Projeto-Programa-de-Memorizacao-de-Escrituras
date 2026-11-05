@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemorizadorEscrituras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c25220b5c16081ec9e367eb4981ee5b87a37d98")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemorizadorEscrituras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemorizadorEscrituras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
